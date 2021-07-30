@@ -1,10 +1,13 @@
-.hero {
-  background-color: black;
-  height: 100vh;
-  width: 100vw;
+#logo {
+  background-color: rgba(255, 165, 0, 1);
 }
-.about {
-  background: yellow;
-  height: 51vh;
-  width: 33vw;
+h2 {
+  font-size: 25px;
+  color: lime;
+}
+body {
+  background-color: darkslategray;
+}
+a {
+  color: rgb(251, 72, 192);
 }
