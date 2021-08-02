@@ -1,6 +1,6 @@
 #logo {
   background-color: rgba(255, 165, 0, 1);
-  width: 100vw;
+  width: 10vw;
 }
 h2 {
   font-size: 25px;
@@ -11,4 +11,11 @@ body {
 }
 a {
   color: rgb(251, 72, 192);
+}
+.header {
+  padding: 15px;
+  text-align: center;
+  background: gold;
+  color: white;
+  font-size: 30px;
 }
